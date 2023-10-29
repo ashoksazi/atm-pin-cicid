@@ -43,7 +43,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>${app.runtime}</muleVersion>
-						<server>anypoint.platform</server>
+						<username>Srinivas338</username>
+						<password>Ashok@338@</password>
 						<applicationName>gbit-atm-transection-api-deploy-338</applicationName>
 						<environment>Sandbox</environment>
 						<region>${region}</region>
